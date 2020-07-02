@@ -1,0 +1,11 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Personnalisation drawables</string>
+
+	<!-- Main -->
+	<string name="main_description_tableau">Tableau de Picasso</string>
+	<string name="main_icone_legende">Légende</string>
+	<string name="main_texte_legende">Oeuvre de Picasso</string>
+
+</resources>
